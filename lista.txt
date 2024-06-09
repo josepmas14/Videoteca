@@ -1,0 +1,65 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is DC72-3D7D
+
+ Directory of C:\Users\josep\Documents\Video
+
+31/05/2024  21:07    <DIR>          .
+29/05/2024  12:36    <DIR>          ..
+27/05/2024  22:40    <DIR>          data
+17/05/2024  18:42    <DIR>          lib
+31/05/2024  21:07                 0 lista.txt
+31/05/2024  20:52    <DIR>          src
+29/05/2024  22:30    <DIR>          test
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\josep\Documents\Video\data
+
+27/05/2024  22:40    <DIR>          .
+31/05/2024  21:07    <DIR>          ..
+27/05/2024  10:19               990 create_database.sql
+27/05/2024  10:51               718 load_genres.sql
+27/05/2024  22:40            40.960 video.sqlite
+               3 File(s)         42.668 bytes
+
+ Directory of C:\Users\josep\Documents\Video\lib
+
+17/05/2024  18:42    <DIR>          .
+31/05/2024  21:07    <DIR>          ..
+17/05/2024  18:42         2.698.756 junit-platform-console-standalone-1.11.0-M1.jar
+               1 File(s)      2.698.756 bytes
+
+ Directory of C:\Users\josep\Documents\Video\src
+
+31/05/2024  20:52    <DIR>          .
+31/05/2024  21:07    <DIR>          ..
+31/05/2024  14:52    <DIR>          datos
+31/05/2024  12:23    <DIR>          logica
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\josep\Documents\Video\src\datos
+
+31/05/2024  14:52    <DIR>          .
+31/05/2024  20:52    <DIR>          ..
+31/05/2024  12:25                59 DirectorDAO.java
+31/05/2024  19:09               577 Utils.java
+               2 File(s)            636 bytes
+
+ Directory of C:\Users\josep\Documents\Video\src\logica
+
+31/05/2024  12:23    <DIR>          .
+31/05/2024  20:52    <DIR>          ..
+30/05/2024  10:58             1.008 Director.java
+30/05/2024  11:22               425 Generos.java
+30/05/2024  22:47             1.940 Pelicula.java
+               3 File(s)          3.373 bytes
+
+ Directory of C:\Users\josep\Documents\Video\test
+
+29/05/2024  22:30    <DIR>          .
+31/05/2024  21:07    <DIR>          ..
+31/05/2024  20:55             2.474 TestDAO.java
+               1 File(s)          2.474 bytes
+
+     Total Files Listed:
+              11 File(s)      2.747.907 bytes
+              20 Dir(s)  56.993.161.216 bytes free
